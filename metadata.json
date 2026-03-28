@@ -1,0 +1,5 @@
+{
+  "name": "Smart Spam Detector",
+  "description": "A modern, keyword-based spam email detection tool with real-time analysis and dark mode support.",
+  "requestFramePermissions": []
+}
